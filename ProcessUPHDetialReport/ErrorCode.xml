@@ -1,0 +1,195 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Defects>
+  <Defect>
+    <DefectCode>CI-S6-032</DefectCode>
+    <DefectDesc>Rear pancake post crack</DefectDesc>
+  </Defect>
+  <Defect>
+    <DefectCode>MES10002329</DefectCode>
+    <DefectDesc>TuneEarbudFRSpectrum ErrorCode101</DefectDesc>
+  </Defect>
+  <Defect>
+    <DefectCode>MES10002010</DefectCode>
+    <DefectDesc>Get CBNONCE</DefectDesc>
+  </Defect>
+  <Defect>
+    <DefectCode>MES10002016</DefectCode>
+    <DefectDesc>BoronTestZ THDMask</DefectDesc>
+  </Defect>
+  <Defect>
+    <DefectCode>MES10002017</DefectCode>
+    <DefectDesc>Check_Leakage_Current</DefectDesc>
+  </Defect>
+  <Defect>
+    <DefectCode>MES10001201</DefectCode>
+    <DefectDesc>READ_SCPSEN_PRE-RAW_DATA_25.0mm</DefectDesc>
+  </Defect>
+  <Defect>
+    <DefectCode>MES10001254</DefectCode>
+    <DefectDesc>LooseParticleTest ViolationCount</DefectDesc>
+  </Defect>
+  <Defect>
+    <DefectCode>MES10001279</DefectCode>
+    <DefectDesc>BoronTestX THDMask</DefectDesc>
+  </Defect>
+  <Defect>
+    <DefectCode>MES10001295</DefectCode>
+    <DefectDesc>open tunnel_1_retry</DefectDesc>
+  </Defect>
+  <Defect>
+    <DefectCode>MES10000916</DefectCode>
+    <DefectDesc>Error Application Terminated</DefectDesc>
+  </Defect>
+  <Defect>
+    <DefectCode>MES10000967</DefectCode>
+    <DefectDesc>OpenTunnel_0</DefectDesc>
+  </Defect>
+  <Defect>
+    <DefectCode>MES10001011</DefectCode>
+    <DefectDesc>Connector resistance</DefectDesc>
+  </Defect>
+  <Defect>
+    <DefectCode>MES10001037</DefectCode>
+    <DefectDesc>Check_Boron_ID</DefectDesc>
+  </Defect>
+  <Defect>
+    <DefectCode>MES10001145</DefectCode>
+    <DefectDesc>TRAGUS_LD_PRE-RAW_25.0mm_MEAN</DefectDesc>
+  </Defect>
+  <Defect>
+    <DefectCode>MES10001186</DefectCode>
+    <DefectDesc>Link_Status_0</DefectDesc>
+  </Defect>
+  <Defect>
+    <DefectCode>MES10001240</DefectCode>
+    <DefectDesc>CONCHA_LD_PRE-RAW_25.0mm_MEAN</DefectDesc>
+  </Defect>
+  <Defect>
+    <DefectCode>MES10001241</DefectCode>
+    <DefectDesc>tc=Power tech=BT:subtc=Avg freq=2402:rate=1-DH5:pwr=12.00</DefectDesc>
+  </Defect>
+  <Defect>
+    <DefectCode>MES10001245</DefectCode>
+    <DefectDesc>Buddy_Test</DefectDesc>
+  </Defect>
+  <Defect>
+    <DefectCode>MES10001249</DefectCode>
+    <DefectDesc>TRAGUS_LD_POST-CAL_8.0mm_MEAN</DefectDesc>
+  </Defect>
+  <Defect>
+    <DefectCode>MES10000819</DefectCode>
+    <DefectDesc>CB Error Over Allowed Relative Fail Count Over Allowed Relative Fail Count</DefectDesc>
+  </Defect>
+  <Defect>
+    <DefectCode>MES10000826</DefectCode>
+    <DefectDesc>CB Error CB not PASS CB not PASS</DefectDesc>
+  </Defect>
+  <Defect>
+    <DefectCode>MES10000851</DefectCode>
+    <DefectDesc>FATAL ERROR SFC_QUERY_UNIT [ACTIVE] SFC query not working [ACTIVE]</DefectDesc>
+  </Defect>
+  <Defect>
+    <DefectCode>MES10000909</DefectCode>
+    <DefectDesc>FATAL ERROR Ethernet UNPLUGGED: [ACTIVE] ethernet not functioning</DefectDesc>
+  </Defect>
+  <Defect>
+    <DefectCode>MES10000968</DefectCode>
+    <DefectDesc>BoronTestX FRMask</DefectDesc>
+  </Defect>
+  <Defect>
+    <DefectCode>MES10000969</DefectCode>
+    <DefectDesc>Microphone2Test FR@1000</DefectDesc>
+  </Defect>
+  <Defect>
+    <DefectCode>MES10000994</DefectCode>
+    <DefectDesc>CONCHA_LD_PRE-RAW_1.0mm_MEAN</DefectDesc>
+  </Defect>
+  <Defect>
+    <DefectCode>MES10000974</DefectCode>
+    <DefectDesc>EarbudCalVerify THDMask</DefectDesc>
+  </Defect>
+  <Defect>
+    <DefectCode>MES10001008</DefectCode>
+    <DefectDesc>Leak</DefectDesc>
+  </Defect>
+  <Defect>
+    <DefectCode>MES10000949</DefectCode>
+    <DefectDesc>Check Side</DefectDesc>
+  </Defect>
+  <Defect>
+    <DefectCode>MES10000971</DefectCode>
+    <DefectDesc>LowVoltageEarbud_PreCal FRMask</DefectDesc>
+  </Defect>
+  <Defect>
+    <DefectCode>MES10000991</DefectCode>
+    <DefectDesc>CONCHA_SD_PRE-RAW_4.0mm_MEAN</DefectDesc>
+  </Defect>
+  <Defect>
+    <DefectCode>MES10001024</DefectCode>
+    <DefectDesc>CheckControlBit</DefectDesc>
+  </Defect>
+  <Defect>
+    <DefectCode>MES10001187</DefectCode>
+    <DefectDesc>Check_Undervoltage_Protection_2</DefectDesc>
+  </Defect>
+  <Defect>
+    <DefectCode>MES10001208</DefectCode>
+    <DefectDesc>Compare_SN</DefectDesc>
+  </Defect>
+  <Defect>
+    <DefectCode>MES10000911</DefectCode>
+    <DefectDesc>Check_Undervoltage_Protection_1</DefectDesc>
+  </Defect>
+  <Defect>
+    <DefectCode>MES10002069</DefectCode>
+    <DefectDesc>Rx_Meas BT 2441 1-DH5 RxSingle -84</DefectDesc>
+  </Defect>
+  <Defect>
+    <DefectCode>MES10002099</DefectCode>
+    <DefectDesc>BoronTestX FR@400</DefectDesc>
+  </Defect>
+  <Defect>
+    <DefectCode>MES10002317</DefectCode>
+    <DefectDesc>HighVoltageEarbudTest ErrorCode101</DefectDesc>
+  </Defect>
+  <Defect>
+    <DefectCode>MES10002320</DefectCode>
+    <DefectDesc>CONCHA_LIGHT_PRE-RAW_1.0mm_RANGE</DefectDesc>
+  </Defect>
+  <Defect>
+    <DefectCode>MES10002383</DefectCode>
+    <DefectDesc>OUTPUT_POWER_TYP_DUTSAMPLES_PERSAMPLE_ADJ</DefectDesc>
+  </Defect>
+  <Defect>
+    <DefectCode>MES10001809</DefectCode>
+    <DefectDesc>EarbudCalVerify FRMask</DefectDesc>
+  </Defect>
+  <Defect>
+    <DefectCode>MES10002156</DefectCode>
+    <DefectDesc>OUTPUT_POWER_TYP_DUTSAMPLES</DefectDesc>
+  </Defect>
+  <Defect>
+    <DefectCode>MES10002179</DefectCode>
+    <DefectDesc>TRAGUS_LD_PRE-RAW_4.0mm_MEAN</DefectDesc>
+  </Defect>
+  <Defect>
+    <DefectCode>MES10002046</DefectCode>
+    <DefectDesc>TakeDUTAndPowerSamples_MAX</DefectDesc>
+  </Defect>
+  <Defect>
+    <DefectCode>MES10002047</DefectCode>
+    <DefectDesc>TARG_CURR_TYP</DefectDesc>
+  </Defect>
+  <Defect>
+    <DefectCode>MES10002049</DefectCode>
+    <DefectDesc>LowVoltageEarbud_PreCal THDMask</DefectDesc>
+  </Defect>
+  <Defect>
+    <DefectCode>MES10002153</DefectCode>
+    <DefectDesc>CONCHA_LD_PRE-RAW_4.0mm_MEAN</DefectDesc>
+  </Defect>
+  <Defect>
+    <DefectCode>MES10002158</DefectCode>
+    <DefectDesc>OpenTunnel_2</DefectDesc>
+  </Defect>
+</Defects>

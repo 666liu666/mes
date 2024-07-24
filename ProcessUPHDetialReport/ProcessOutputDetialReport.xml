@@ -1,0 +1,97 @@
+<Chroma>
+  <English />
+  <繁體中文>
+    <Message Name="OK" Value="確定" />
+    <Message Name="Cancel" Value="取消" />
+    <Message Name="Search" Value="搜尋條件" />
+    <Message Name="Clear" Value="清除" />
+    <Message Name="Work Order" Value="工單" />
+    <Message Name="Part No" Value="料號" />
+    <Message Name="Packing Base" Value="包裝依據" />
+    <Message Name="Packing Spec" Value="包裝方式" />
+    <Message Name="Box" Value="彩盒" />
+    <Message Name="Carton" Value="箱號" />
+    <Message Name="Pallet" Value="棧板" />
+    <Message Name="Change Spec" Value="更改規格" />
+    <Message Name="Close Pallet" Value="關閉棧板" />
+    <Message Name="Pallet No" Value="棧板號" />
+    <Message Name="Close Carton" Value="關閉箱" />
+    <Message Name="Carton No" Value="箱號" />
+    <Message Name="Close Box" Value="關閉彩盒" />
+    <Message Name="Box No" Value="彩盒號" />
+    <Message Name="Close Inner Box" Value="關閉內袋" />
+    <Message Name="Inner Box" Value="內袋號" />
+    <Message Name="Inner" Value="內袋" />
+    <Message Name="Serial Number" Value="序號" />
+    <Message Name="Customer SN" Value="出貨序號" />
+    <Message Name="Defect Code" Value="不良現象代碼" />
+    <Message Name="Description" Value="描述說明" />
+    <Message Name="Finish" Value="完成" />
+    <Message Name="S/N" Value="序號" />
+    <Message Name="Terminal Name" Value="工作站" />
+    <Message Name="Stage Name" Value="區段" />
+    <Message Name="PDLine Name" Value="線別" />
+    <Message Name="Employee No" Value="員工帳號" />
+    <Message Name="Remove KeyPart" Value="移除料件" />
+    <Message Name="Finish Assembly Qty" Value="應組數量已達到" />
+    <Message Name="Assy Qty" Value="已組裝數量" />
+    <Message Name="Qty" Value="數量" />
+    <Message Name="Group" Value="料件關係" />
+    <Message Name="KeyPart S/N" Value="料件序號" />
+    <Message Name="Process Name" Value="製程" />
+    <Message Name="KPSN Had Used" Value="料件序號已被使用" />
+    <Message Name="KeyPart S/N OK" Value="料件序號輸入OK" />
+    <Message Name="Input Keyparts" Value="料件輸" />
+    <Message Name="Keypart List(Bom)" Value="料件清單(Bom)" />
+    <Message Name="Assembly List" Value="已組裝清單" />
+    <Message Name="Part Error" Value="料號錯誤" />
+    <Message Name="Please Input KeyPart S/N" Value="請輸入料件序號" />
+  </繁體中文>
+  <简体中文>
+    <Message Name="OK" Value="确定" />
+    <Message Name="Cancel" Value="取消" />
+    <Message Name="Search" Value="搜寻条件" />
+    <Message Name="Clear" Value="清除" />
+    <Message Name="Work Order" Value="工单" />
+    <Message Name="Part No" Value="料号" />
+    <Message Name="Packing Base" Value="包装依据" />
+    <Message Name="Packing Spec" Value="包装方式" />
+    <Message Name="Box" Value="彩盒" />
+    <Message Name="Carton" Value="箱号" />
+    <Message Name="Pallet" Value="栈板" />
+    <Message Name="Change Spec" Value="更改规格" />
+    <Message Name="Close Pallet" Value="关闭栈板" />
+    <Message Name="Pallet No" Value="栈板号" />
+    <Message Name="Close Carton" Value="关闭箱" />
+    <Message Name="Carton No" Value="箱号" />
+    <Message Name="Close Box" Value="关闭彩盒" />
+    <Message Name="Box No" Value="彩盒号" />
+    <Message Name="Close Inner Box" Value="关闭内袋" />
+    <Message Name="Inner Box" Value="内袋号" />
+    <Message Name="Inner" Value="内袋" />
+    <Message Name="Serial Number" Value="序号" />
+    <Message Name="Customer SN" Value="出货序号" />
+    <Message Name="Defect Code" Value="不良现象代码" />
+    <Message Name="Description" Value="描述说明" />
+    <Message Name="Finish" Value="完成" />
+    <Message Name="S/N" Value="序号" />
+    <Message Name="Terminal Name" Value="工作站" />
+    <Message Name="Stage Name" Value="区段" />
+    <Message Name="PDLine Name" Value="线别" />
+    <Message Name="Employee No" Value="员工帐号" />
+    <Message Name="Remove KeyPart" Value="移除料件" />
+    <Message Name="Finish Assembly Qty" Value="应组数量已达到" />
+    <Message Name="Assy Qty" Value="已组装数量" />
+    <Message Name="Qty" Value="数量" />
+    <Message Name="Group" Value="料件关系" />
+    <Message Name="KeyPart S/N" Value="料件序号" />
+    <Message Name="Process Name" Value="制程" />
+    <Message Name="KPSN Had Used" Value="料件序号已被使用" />
+    <Message Name="KeyPart S/N OK" Value="料件序号输入OK" />
+    <Message Name="Input Keyparts" Value="料件输" />
+    <Message Name="Keypart List(Bom)" Value="料件清单(Bom)" />
+    <Message Name="Assembly List" Value="已组装清单" />
+    <Message Name="Part Error" Value="料号错误" />
+    <Message Name="Please Input KeyPart S/N" Value="请输入料件序号" />
+  </简体中文>
+</Chroma>

@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GB14587\\ChromeMES\u521D\u59CB\u6E90\u4EE3\u7801\\Query\\CTravelCard\\2.0.0.5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9CFF6199-5D55-4A87-9CE1-26933FE4CE83}|CTravelCard.csproj|d:\\gb14587\\chromemes\u521D\u59CB\u6E90\u4EE3\u7801\\query\\ctravelcard\\2.0.0.5\\exportexcel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CFF6199-5D55-4A87-9CE1-26933FE4CE83}|CTravelCard.csproj|solutionrelative:exportexcel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CFF6199-5D55-4A87-9CE1-26933FE4CE83}|CTravelCard.csproj|d:\\gb14587\\chromemes\u521D\u59CB\u6E90\u4EE3\u7801\\query\\ctravelcard\\2.0.0.5\\fmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CFF6199-5D55-4A87-9CE1-26933FE4CE83}|CTravelCard.csproj|solutionrelative:fmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CFF6199-5D55-4A87-9CE1-26933FE4CE83}|CTravelCard.csproj|d:\\gb14587\\chromemes\u521D\u59CB\u6E90\u4EE3\u7801\\query\\ctravelcard\\2.0.0.5\\fmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9CFF6199-5D55-4A87-9CE1-26933FE4CE83}|CTravelCard.csproj|solutionrelative:fmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ExportExcel.cs",
+              "DocumentMoniker": "D:\\GB14587\\ChromeMES\u521D\u59CB\u6E90\u4EE3\u7801\\Query\\CTravelCard\\2.0.0.5\\ExportExcel.cs",
+              "RelativeDocumentMoniker": "ExportExcel.cs",
+              "ToolTip": "D:\\GB14587\\ChromeMES\u521D\u59CB\u6E90\u4EE3\u7801\\Query\\CTravelCard\\2.0.0.5\\ExportExcel.cs",
+              "RelativeToolTip": "ExportExcel.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAAAEoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T08:10:49.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "fMain.cs",
+              "DocumentMoniker": "D:\\GB14587\\ChromeMES\u521D\u59CB\u6E90\u4EE3\u7801\\Query\\CTravelCard\\2.0.0.5\\fMain.cs",
+              "RelativeDocumentMoniker": "fMain.cs",
+              "ToolTip": "D:\\GB14587\\ChromeMES\u521D\u59CB\u6E90\u4EE3\u7801\\Query\\CTravelCard\\2.0.0.5\\fMain.cs",
+              "RelativeToolTip": "fMain.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAApwCkAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T08:09:03.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "fMain.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\GB14587\\ChromeMES\u521D\u59CB\u6E90\u4EE3\u7801\\Query\\CTravelCard\\2.0.0.5\\fMain.cs",
+              "RelativeDocumentMoniker": "fMain.cs",
+              "ToolTip": "D:\\GB14587\\ChromeMES\u521D\u59CB\u6E90\u4EE3\u7801\\Query\\CTravelCard\\2.0.0.5\\fMain.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "fMain.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T08:08:56.974Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

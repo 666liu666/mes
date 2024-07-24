@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<Models>
+  <Model id="10001" name="H06ASSY">
+    <Pdlines name="Pdlines">
+      <Pdline id="1000001" name="A8-3F-R01"/>
+    </Pdlines>
+    <Processs name="Processs">
+      <Process id="10000001" name="F-005 Link Hsging"/>
+    </Processs>
+  </Model>
+</Models>
